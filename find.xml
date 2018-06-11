@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[freightspoke] - .../server/company_management/erp_integrations/unified_sync/unified_sync_interfaces/jbss.coffee'" />
+    <option name="defaultScopeName" value="File '[freightspoke] - .../server/company_management/erp_integrations/unified_sync/unified_sync_interfaces/jbss.coffee'" />
+    <option name="SEARCH_SCOPE" value="File '[freightspoke] - .../server/company_management/erp_integrations/unified_sync/unified_sync_interfaces/jbss.coffee'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.coffee, *.html</mask>
+      <mask>*.coffee</mask>
+      <mask>*.coffee, *.html, *.css, *.scss, *.less</mask>
+      <mask>*.coffee, *.html, *.css, *.scss, *.less, *.json, *.md, *.txt</mask>
+      <mask>*.coffee, *.html, *.css, *.scss, *.less, *.json</mask>
+    </recentFileMasks>
+  </component>
+</application>
