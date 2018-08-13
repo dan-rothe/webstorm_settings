@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="7f50dbbe-112a-4124-8b2b-4610e632ceff" name="dan-rothe">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="drcv" />
     <option name="AUTH_TYPE" value="BASIC" />
